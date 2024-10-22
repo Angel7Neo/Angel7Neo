@@ -2,9 +2,8 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning ICT in Applications Development Foundation
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me ...
+- 📫 How to reach me neomas773@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
 
 <!---
 Angel7Neo/Angel7Neo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
