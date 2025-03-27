@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Angel7Neo
+- 🚀 ICT Applications Development Student | Aspiring Software Engineer
+- 💻 Passionate about web development, Java programming, and software solutions
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning ICT in Applications Development Foundation
-- 💞️ I’m looking to collaborate on anything
+-  Currently learning Python | Cloud Computing | AI
+- 🌍 Open to collaborations & open-source contributions
 - 📫 How to reach me angeldineo773@gmail.com
 - 😄 Pronouns: she/her
 
