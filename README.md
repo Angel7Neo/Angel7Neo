@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning ICT in Applications Development Foundation
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me neomas773@gmail.com
+- 📫 How to reach me angeldineo773@gmail.com
 - 😄 Pronouns: she/her
 
 <!---
