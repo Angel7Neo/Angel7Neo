@@ -2,10 +2,10 @@
 - 🚀 ICT Applications Development Student | Aspiring Software Engineer
 - 💻 Passionate about web development, Java programming, and software solutions
 - 👀 I’m interested in coding
--  Currently learning Python | Cloud Computing | AI
+-  Currently learning Data Analytics | Cloud Computing | AI
 - 🌍 Open to collaborations & open-source contributions
 - 📫 How to reach me angeldineo773@gmail.com
-- 😄 Pronouns: she/her
+
 
 <!---
 Angel7Neo/Angel7Neo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
